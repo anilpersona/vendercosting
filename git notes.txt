@@ -1,0 +1,15 @@
+
+git commands
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/anil86888/opencosting.git
+git push -u origin master
+
+
+ git config --global user.email "anil@opencost.com"
+ git config --global user.name "anil"
